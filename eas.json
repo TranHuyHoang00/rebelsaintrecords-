@@ -1,0 +1,27 @@
+{
+  "cli": {
+    "version": ">= 5.9.1"
+  },
+  "build": {
+    "preview_android": {
+      "channel": "preview_android",
+      "android": {
+        "buildType": "apk"
+      },
+      "env": {
+        "EXPO_PUBLIC_API_URL": "https://api.rebelsaintrecords.com/",
+        "EXPO_PUBLIC_ACCOUNT": "account"
+      }
+    },
+    "preview_ios": {
+      "channel": "preview_ios",
+      "env": {
+        "EXPO_PUBLIC_API_URL": "https://api.rebelsaintrecords.com/",
+        "EXPO_PUBLIC_ACCOUNT": "account"
+      }
+    }
+  },
+  "submit": {
+    "production": {}
+  }
+}

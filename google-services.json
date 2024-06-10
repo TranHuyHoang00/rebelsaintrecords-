@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "194133863380",
+    "project_id": "rebelsaintrecords-82335",
+    "storage_bucket": "rebelsaintrecords-82335.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194133863380:android:bda9e20843581cd179c441",
+        "android_client_info": {
+          "package_name": "com.tranhuyhoang23022001.rebelsaintrecords"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwqbvXfl0wkICQfA0pyRYCb4YiiAvEIxA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
